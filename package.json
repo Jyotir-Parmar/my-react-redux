@@ -1,0 +1,27 @@
+{
+  "name": "my-react-redux",
+  "version": "1.0.0",
+  "description": "react-redux implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jyotir-Parmar/my-react-redux.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "react-redux"
+  ],
+  "author": "Jyotiraditya Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jyotir-Parmar/my-react-redux/issues"
+  },
+  "homepage": "https://github.com/Jyotir-Parmar/my-react-redux#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
